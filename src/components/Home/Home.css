@@ -1,0 +1,15 @@
+.home {
+    padding: 80px 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+}
+.tshirt-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.cart-container {
+    border: 1px solid wheat;
+    border-radius: 15px;
+}

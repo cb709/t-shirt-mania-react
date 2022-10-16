@@ -1,0 +1,9 @@
+.tshirt {
+    border: 1px solid wheat;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.tshirt img {
+    height: 250px;
+}

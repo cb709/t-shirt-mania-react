@@ -1,0 +1,14 @@
+.header nav {
+    font-size: 20px;
+    padding: 20px 0;
+    background-color: floralwhite;
+}
+
+.header nav a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.header nav a:last-child {
+    margin-right: 0px;
+}
